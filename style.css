@@ -118,8 +118,8 @@ header .container {
 img.headshot {
     float: left;
     padding: 0 1em 1em 0;
-    width: 200px;
-    height: 200px;
+    width: 450px;
+    height: 450px;
 }
 
 /* Portfolio Style */
@@ -233,5 +233,13 @@ footer {
     font-size: 0.8em;
     color: #cccccc;
     background-color: #666666;
+    border-top: 7px solid #4aaaa5;
+}
+
+.navbar {
+    text-align: center;
+    font-size: 0.8em;
+    color: #cccccc;
+    background-color: #cccccc;
     border-top: 7px solid #4aaaa5;
 }
